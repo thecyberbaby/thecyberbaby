@@ -34,7 +34,6 @@ I integrate security practices within the DevOps lifecycle, delivering robust, s
 
 *Email: [nishantsharma9358@gmail.com](mailto:nishantsharma9358@gmail.com)*<br>
 *LinkedIn: [Nishant Sharma](https://www.linkedin.com/in/thecyberbaby)*<br>
-*Country: India* 🇮🇳
 ---
 
 ##  Technologies & Tools I Use
