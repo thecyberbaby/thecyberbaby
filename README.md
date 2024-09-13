@@ -55,8 +55,6 @@ I integrate security practices within the DevOps lifecycle, delivering robust, s
   <img src="https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=new%20relic&logoColor=white" alt="New Relic" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" style="margin-right: 6px;"/>
   <img src="https://img.shields.io/badge/Trivy-4169E1?style=for-the-badge&logo=aqua-security&logoColor=white" alt="Trivy" style="margin-right: 6px;"/>
-  <img src="https://img.shields.io/badge/Kalilinux-000000?style=for-the-badge&logo=aqua-security&logoColor=white" alt="Trivy" style="margin-right: 6px;"/>
-
 </p>
 
 ---
