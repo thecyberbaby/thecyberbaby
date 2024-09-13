@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nishant Sharma!
+# Hi there 👋
 
 ## 👨‍💻 About
 *I am a dedicated and results-oriented DevOps Engineer and Cybersecurity professional with extensive experience 
