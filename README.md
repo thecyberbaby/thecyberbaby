@@ -16,7 +16,7 @@ I integrate security practices within the DevOps lifecycle, delivering robust, s
 - **Operating Systems**: *Linux, Mac, Windows*
 - **Observability and monitoring**: *Prometheus-Grafana, ELK, Newrelic, Datadog*
 
-
+<!-- Embed the local GIF -->
 ![cat GIF](./cat.gif)
 
 ## 🎓 Education
