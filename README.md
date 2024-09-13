@@ -20,6 +20,9 @@ I integrate security practices within the DevOps lifecycle, delivering robust, s
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGo1eW1oNHNpbDk3a2Y2dzZ4bXBjOWJnazQxN2FxNXh1OGQ3Y2t6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="240"/>
 </div>
 
+<!-- Embed the local GIF -->
+![cat GIF](./cat.gif)
+
 ## 🎓 Education
 
     Bachelor of Technology in Computer Science [2016-20]
